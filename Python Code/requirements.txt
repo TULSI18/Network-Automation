@@ -1,0 +1,5 @@
+Future Me Jab Bhi Local File Change Karo Bas Ye 3 commands:
+
+git add .
+git commit -m "Updated ping monitoring script"
+git push
