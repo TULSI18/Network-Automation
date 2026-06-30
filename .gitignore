@@ -1,0 +1,19 @@
+# Chrome profile
+Python Code/SWAN-GUI/chrome_profile/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# External Git repositories
+AI-Project-Gallery/
+G0DM0D3/
+
+session.json
+**/session.json
